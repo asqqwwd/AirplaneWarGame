@@ -6,11 +6,11 @@
 
 | 道具 | 作用 |
 | ------ | ------ |
-| ![avatar](https://github.com/asqqwwd/AirplaneWarGame/blob/master/img/prop_healthy.png =30x30) | 恢复玩家全部生命值 |
-| ![avatar](https://github.com/asqqwwd/AirplaneWarGame/blob/master/img/prop_bomb.png =30x30) | 清除所有一般敌人和子弹 |
-| ![avatar](https://github.com/asqqwwd/AirplaneWarGame/blob/master/img/prop_firing_speed.png =30x30) | 加快玩家射速 |
-| ![avatar](https://github.com/asqqwwd/AirplaneWarGame/blob/master/img/prop_shield.png) | 加快玩家射速 |
-| <img src="https://github.com/asqqwwd/AirplaneWarGame/blob/master/img/prop_level_up.png" alt="avatar" width = "50" height = "50" align=center /> | 玩家飞机升级 |
+| <img src="https://github.com/asqqwwd/AirplaneWarGame/blob/master/img/prop_healthy.png" alt="avatar" width = "80" height = "80" align=center /> | 恢复玩家全部生命值 |
+| <img src="https://github.com/asqqwwd/AirplaneWarGame/blob/master/img/prop_bomb.png" alt="avatar" width = "80" height = "80" align=center /> | 清除所有一般敌人和子弹 |
+| <img src="https://github.com/asqqwwd/AirplaneWarGame/blob/master/img/prop_firing_speed.png" alt="avatar" width = "80" height = "80" align=center /> | 加快玩家射速 |
+| <img src="https://github.com/asqqwwd/AirplaneWarGame/blob/master/img/prop_shield.png" alt="avatar" width = "80" height = "80" align=center /> | 加快玩家射速 |
+| <img src="https://github.com/asqqwwd/AirplaneWarGame/blob/master/img/prop_level_up.png" alt="avatar" width = "80" height = "80" align=center /> | 玩家飞机升级 |
 
 ### 玩家飞机
 
