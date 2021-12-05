@@ -5,9 +5,11 @@
 ### 道具
 
 | 道具 | 作用 |
-| ![avatar](https://github.com/asqqwwd/AirplaneWarGame/img/prop_healthy.png) | ------ |
-| 短文本 | 中等文本 |
-| 稍微长一点的文本 | 短文本 |
+| ![avatar](https://github.com/asqqwwd/AirplaneWarGame/blob/master/img/prop_healthy.png) | 恢复玩家全部生命值 |
+| ![avatar](https://github.com/asqqwwd/AirplaneWarGame/blob/master/img/prop_bomb.png) | 清除所有一般敌人和子弹 |
+| ![avatar](https://github.com/asqqwwd/AirplaneWarGame/blob/master/img/prop_firing_speed.png) | 加快玩家射速 |
+| ![avatar](https://github.com/asqqwwd/AirplaneWarGame/blob/master/img/prop_shield.png) | 加快玩家射速 |
+| ![avatar](https://github.com/asqqwwd/AirplaneWarGame/blob/master/img/prop_level_up.png) | 玩家飞机升级 |
 
 ### 玩家飞机
 
