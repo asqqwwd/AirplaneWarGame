@@ -2,6 +2,12 @@
 
 玩家操控飞机，躲避小飞机攻击，收集道具，提升自身能力，打败两个Boss，获得胜利。
 
+### 游戏场景截图
+
+<img src="https://github.com/asqqwwd/AirplaneWarGame/blob/master/img/scene_1.png" alt="avatar" align=center />
+
+<img src="https://github.com/asqqwwd/AirplaneWarGame/blob/master/img/scene_2.png" alt="avatar" align=center />
+
 ### 道具
 
 共有五种道具，玩家飞机击毁一般敌人后，会随机掉落道具。
