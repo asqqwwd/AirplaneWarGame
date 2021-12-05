@@ -4,9 +4,9 @@
 
 ### 游戏场景截图
 
-<img src="https://github.com/asqqwwd/AirplaneWarGame/blob/master/img/scene_1.png" alt="avatar" align=center />
+<img src="https://github.com/asqqwwd/AirplaneWarGame/blob/master/img/scene_1.png" alt="avatar" align=center style="zoom:50%;" />
 
-<img src="https://github.com/asqqwwd/AirplaneWarGame/blob/master/img/scene_2.png" alt="avatar" align=center />
+<img src="https://github.com/asqqwwd/AirplaneWarGame/blob/master/img/scene_2.png" alt="avatar" align=center style="zoom:50%;" />
 
 ### 道具
 
